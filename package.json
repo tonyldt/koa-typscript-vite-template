@@ -1,0 +1,19 @@
+{
+  "name": "koa-project",
+  "version": "1.0.0",
+  "description": "Koa typscript and vite template",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "tonyldt",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.5",
+    "vite": "^2.8.4",
+    "vite-plugin-node": "^0.0.17"
+  },
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
